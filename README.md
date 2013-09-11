@@ -1,4 +1,4 @@
-An REST client android app developed with Android Asynchronous Http Client library.
+A REST client android app developed with Android Asynchronous Http Client library.
 User types keyword on app to search menu items on server.
 
 ----------
